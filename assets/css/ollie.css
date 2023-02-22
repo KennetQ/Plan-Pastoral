@@ -7750,7 +7750,7 @@ button.bg-dark:focus {
           align-items: flex-end !important;
 }
 
-.align-items-center {
+.align-items-center {                         /*Historia*/
   -webkit-box-align: center !important;
   -webkit-align-items: center !important;
       -ms-flex-align: center !important;
@@ -11685,7 +11685,7 @@ pre .code {
   padding: 60px 10px;
 }
 
-.section:nth-child(odd) {
+.section:nth-child(odd) {     
   background-color: #f1fafb;
 }
 
