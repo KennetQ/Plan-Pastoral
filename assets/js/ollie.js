@@ -54,8 +54,8 @@ $('#owl-actividades').owlCarousel({
     }
 });
 
-// servicios carousel
-$('#owl-servicios').owlCarousel({
+//  Ministerios carousel
+$('#owl-ministerios').owlCarousel({
     center: true,
     items:1,
     loop:true,
